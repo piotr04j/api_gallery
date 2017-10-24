@@ -272,21 +272,10 @@ footer {
 		margin: 20px 0 5px;
 		padding: 5px;
 	}
-	form {
-		max-width: 175px;
-		float: none;
-		margin: 0 auto;
+	.form {
+		display: none;
 	}
-	fieldset{
-		padding: 5px;
-	}
-	legend {
-		font-size: 20px;
-	}
-	label {
-		font-size: 18px;
-		padding: 25px;
-	}
+		
 	.tags h2 {
 		font-size: 18px;
 	}
